@@ -1,0 +1,38 @@
+$primary: #0d6efd;
+
+@import "bootstrap/scss/bootstrap";
+
+body {
+  background: linear-gradient(to right, #5a9ccb, #a7c8ecaf);
+}
+
+.login-card {
+  background-color: a7c8ecaf;
+  border-radius: 16px;
+  border: none;
+
+  .form-label {
+    font-weight: 500;
+  }
+
+  .form-control {
+    border-radius: 10px;
+    transition: all 0.2s ease-in-out;
+
+    &:focus {
+      box-shadow: 0 0 0 0.2rem rgba(189, 207, 235, 0.25);
+      border-color: $primary;
+    }
+  }
+
+  .btn-primary {
+    border-radius: 10px;
+    font-weight: 500;
+    box-shadow: 0 4px 8px rgba(74, 87, 107, 0.3);
+    transition: background-color 0.3s ease;
+
+    &:hover {
+      background-color: darken($primary, 5%);
+    }
+  }
+}

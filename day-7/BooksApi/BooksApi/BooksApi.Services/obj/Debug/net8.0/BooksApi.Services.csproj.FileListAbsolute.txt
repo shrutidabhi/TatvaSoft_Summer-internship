@@ -1,0 +1,17 @@
+C:\Users\DELL\Downloads\BooksApi (1)\BooksApi\BooksApi.Services\bin\Debug\net8.0\BooksApi.Services.deps.json
+C:\Users\DELL\Downloads\BooksApi (1)\BooksApi\BooksApi.Services\bin\Debug\net8.0\BooksApi.Services.dll
+C:\Users\DELL\Downloads\BooksApi (1)\BooksApi\BooksApi.Services\bin\Debug\net8.0\BooksApi.Services.pdb
+C:\Users\DELL\Downloads\BooksApi (1)\BooksApi\BooksApi.Services\bin\Debug\net8.0\BooksApi.Data.dll
+C:\Users\DELL\Downloads\BooksApi (1)\BooksApi\BooksApi.Services\bin\Debug\net8.0\BooksApi.Entities.dll
+C:\Users\DELL\Downloads\BooksApi (1)\BooksApi\BooksApi.Services\bin\Debug\net8.0\BooksApi.Data.pdb
+C:\Users\DELL\Downloads\BooksApi (1)\BooksApi\BooksApi.Services\bin\Debug\net8.0\BooksApi.Entities.pdb
+C:\Users\DELL\Downloads\BooksApi (1)\BooksApi\BooksApi.Services\obj\Debug\net8.0\BooksApi.Services.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\BooksApi (1)\BooksApi\BooksApi.Services\obj\Debug\net8.0\BooksApi.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\BooksApi (1)\BooksApi\BooksApi.Services\obj\Debug\net8.0\BooksApi.Services.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\BooksApi (1)\BooksApi\BooksApi.Services\obj\Debug\net8.0\BooksApi.Services.AssemblyInfo.cs
+C:\Users\DELL\Downloads\BooksApi (1)\BooksApi\BooksApi.Services\obj\Debug\net8.0\BooksApi.Services.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\BooksApi (1)\BooksApi\BooksApi.Services\obj\Debug\net8.0\BooksApi.5EA205C6.Up2Date
+C:\Users\DELL\Downloads\BooksApi (1)\BooksApi\BooksApi.Services\obj\Debug\net8.0\BooksApi.Services.dll
+C:\Users\DELL\Downloads\BooksApi (1)\BooksApi\BooksApi.Services\obj\Debug\net8.0\refint\BooksApi.Services.dll
+C:\Users\DELL\Downloads\BooksApi (1)\BooksApi\BooksApi.Services\obj\Debug\net8.0\BooksApi.Services.pdb
+C:\Users\DELL\Downloads\BooksApi (1)\BooksApi\BooksApi.Services\obj\Debug\net8.0\ref\BooksApi.Services.dll

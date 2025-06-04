@@ -1,0 +1,51 @@
+.bg-image {
+  background-color: #f8f9fa;
+  height: 100vh;
+  object-fit: cover;
+}
+
+.carousel-caption {
+  position: absolute;
+  top: 20%;
+  left: 5%;
+  color: white;
+  text-align: left;
+}
+
+.heading {
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+.content {
+  font-size: 1rem;
+  max-width: 80%;
+}
+
+.login {
+  min-height: 100vh;
+  background-color: #fff;
+}
+
+.btn-login {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 12px;
+  font-weight: bold;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+.btn-login:hover {
+  background-color: #0056b3;
+}
+
+.Lost {
+  font-size: 0.9rem;
+}
+
+.privacy-policy {
+  font-size: 0.85rem;
+}

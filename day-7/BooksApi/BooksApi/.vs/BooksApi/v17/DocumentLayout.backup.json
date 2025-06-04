@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Downloads\\BooksApi (1)\\BooksApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D72588BD-2F2C-4B46-AAC1-BDD39FE09B37}|BooksApi.Data\\BooksApi.Data.csproj|c:\\users\\dell\\downloads\\booksapi (1)\\booksapi\\booksapi.data\\models\\filtervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72588BD-2F2C-4B46-AAC1-BDD39FE09B37}|BooksApi.Data\\BooksApi.Data.csproj|solutionrelative:booksapi.data\\models\\filtervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FilterVM.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BooksApi (1)\\BooksApi\\BooksApi.Data\\Models\\FilterVM.cs",
+              "RelativeDocumentMoniker": "BooksApi.Data\\Models\\FilterVM.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\BooksApi (1)\\BooksApi\\BooksApi.Data\\Models\\FilterVM.cs",
+              "RelativeToolTip": "BooksApi.Data\\Models\\FilterVM.cs",
+              "ViewState": "AgIAAAEAAACAMjMzMzMLwAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T07:57:28.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 125,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
