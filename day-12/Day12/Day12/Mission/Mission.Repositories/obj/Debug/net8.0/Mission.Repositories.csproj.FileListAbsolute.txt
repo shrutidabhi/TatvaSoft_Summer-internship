@@ -1,0 +1,16 @@
+E:\Internship-Project\Day12\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.deps.json
+E:\Internship-Project\Day12\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.dll
+E:\Internship-Project\Day12\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.pdb
+E:\Internship-Project\Day12\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.dll
+E:\Internship-Project\Day12\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.pdb
+E:\Internship-Project\Day12\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.AssemblyReference.cache
+E:\Internship-Project\Day12\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\Internship-Project\Day12\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfoInputs.cache
+E:\Internship-Project\Day12\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfo.cs
+E:\Internship-Project\Day12\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.CoreCompileInputs.cache
+E:\Internship-Project\Day12\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.sourcelink.json
+E:\Internship-Project\Day12\Mission\Mission.Repositories\obj\Debug\net8.0\Mission..7EFB1ED9.Up2Date
+E:\Internship-Project\Day12\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.dll
+E:\Internship-Project\Day12\Mission\Mission.Repositories\obj\Debug\net8.0\refint\Mission.Repositories.dll
+E:\Internship-Project\Day12\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.pdb
+E:\Internship-Project\Day12\Mission\Mission.Repositories\obj\Debug\net8.0\ref\Mission.Repositories.dll

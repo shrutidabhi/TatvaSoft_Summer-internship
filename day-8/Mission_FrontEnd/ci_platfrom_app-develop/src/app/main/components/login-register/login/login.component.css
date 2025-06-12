@@ -1,0 +1,147 @@
+.login {
+  min-height: 100vh;
+  background-color: #f4f7fb;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.bg-image {
+  background-size: cover;
+  background-position: center;
+}
+
+.col-form-label {
+  font-size: 16px;
+  font-weight: 500;
+  color: #414141;
+  margin-bottom: 8px;
+}
+
+.form-control {
+  width: 100%;
+  padding: 12px 15px;
+  font-size: 16px;
+  border-radius: 6px;
+  border: 1px solid #2b64b1;
+  background-color: #fff;
+  box-shadow: 0 2px 6px rgba(43, 100, 177, 0.1);
+  transition: box-shadow 0.3s ease;
+}
+
+.form-control:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(43, 100, 177, 0.2);
+}
+
+.btn-login {
+  width: 100%;
+  height: 48px;
+  border-radius: 30px;
+  border: 2px solid #f88634;
+  background-color: #fff;
+  color: #f88634;
+  font-size: 18px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.btn-login:hover {
+  background-color: #f88634;
+  color: white;
+  box-shadow: 0 4px 12px rgba(248, 134, 52, 0.4);
+}
+
+.Login {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 20px;
+  color: inherit;
+}
+
+.Lost {
+  font-size: 15px;
+  font-weight: 400;
+  text-align: center;
+  color: #414141;
+  cursor: pointer;
+  margin-top: 12px;
+  text-decoration: underline;
+}
+
+.privacy-policy {
+  font-size: 14px;
+  color: #414141;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.ForgotContent {
+  margin: 10px 0 36px;
+  font-size: 16px;
+  text-align: center;
+  color: #414141;
+}
+
+.heading {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+.content {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.75;
+  color: #fff;
+}
+
+.carousel-caption {
+  position: absolute;
+  top: 50%;
+  left: 10%;
+  right: 10%;
+  transform: translateY(-50%);
+  color: #fff;
+  text-align: left;
+}
+
+/* Media Queries */
+@media (max-width: 991.98px) {
+  .heading {
+    font-size: 32px;
+  }
+  .content {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .login {
+    padding: 20px;
+  }
+  .form-control,
+  .btn-login {
+    font-size: 15px;
+    padding: 10px;
+  }
+  .Login {
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .form-control,
+  .btn-login {
+    font-size: 14px;
+    padding: 8px;
+  }
+  .Login {
+    font-size: 16px;
+  }
+  .Lost {
+    font-size: 14px;
+  }
+}

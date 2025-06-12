@@ -1,0 +1,65 @@
+.tab-panel {
+  padding: 20px;
+  border-radius: 8px;
+  min-height: 600px;
+  background-color: #ffffff;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+/* Navigation Tabs */
+.member-tabset > .nav-tabs {
+  border-bottom: none;
+  display: flex;
+  gap: 10px;
+}
+
+.member-tabset > .nav-tabs > li {
+  margin-bottom: -1px;
+}
+
+.member-tabset > .nav-tabs > li > a {
+  border: none;
+  background: transparent !important;
+  color: #555;
+  font-weight: 500;
+  padding: 12px 18px;
+  border-radius: 6px 6px 0 0;
+  transition: all 0.3s ease;
+}
+
+.member-tabset > .nav-tabs > li:hover > a,
+.member-tabset > .nav-tabs > li.open > a {
+  color: #111;
+  background-color: #f7f7f7 !important;
+}
+
+.member-tabset > .nav-tabs > li:hover > a > i,
+.member-tabset > .nav-tabs > li.open > a > i {
+  color: #888;
+}
+
+.member-tabset > .nav-tabs > li.active {
+  border-bottom: 3px solid #000;
+  position: relative;
+}
+
+.member-tabset > .nav-tabs > li.active > a {
+  color: #000;
+  background-color: #f9f9f9 !important;
+  border-radius: 6px 6px 0 0;
+  font-weight: 600;
+}
+
+.member-tabset > .nav-tabs > li.active > a > i {
+  color: #222;
+}
+
+.member-tabset > .tab-content {
+  margin-top: -3px;
+  background-color: #ffffff;
+  border-top: 1px solid #ddd;
+  padding: 20px;
+  border-radius: 0 0 8px 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.04);
+}
